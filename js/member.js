@@ -81,7 +81,7 @@ var member = [
   },
   {
     "phone": "发奖人：边牧",
-    "name": "CSGO饰品 CZ75猛虎计数器"
+    "name": "CZ75猛虎计数器"
   },
   {
     "phone": "发奖人：土味阿黄",
