@@ -81,7 +81,7 @@ var member = [
   },
   {
     "phone": "发奖人：边牧",
-    "name": "CZ75猛虎计数器"
+    "name": "CSGO饰品 CZ75猛虎计数器"
   },
   {
     "phone": "发奖人：土味阿黄",
@@ -97,46 +97,46 @@ var member = [
   },
   {
     "phone": "5元",
-    "name": "发红包"
+    "name": "发红包1"
   },
   {
     "phone": "5元",
-    "name": "发红包"
+    "name": "发红包2"
   },
   {
     "phone": "5元",
-    "name": "发红包"
+    "name": "发红包3"
   },
   {
     "phone": "10元",
-    "name": "发红包"
+    "name": "发红包4"
   },
   {
     "phone": "10元",
-    "name": "发红包"
+    "name": "发红包5"
   },
   {
     "phone": "20元",
-    "name": "发红包"
+    "name": "发红包6"
   },
   {
     "phone": "",
-    "name": "唱歌"
+    "name": "唱歌1"
   },
   {
     "phone": "",
-    "name": "爆照"
+    "name": "爆照1"
   },
   {
     "phone": "",
-    "name": "爆照"
+    "name": "爆照2"
   },
   {
     "phone": "",
-    "name": "唱歌"
+    "name": "唱歌2"
   },
   {
     "phone": "",
-    "name": "唱歌"
+    "name": "唱歌3"
   }
 ]
